@@ -17,6 +17,7 @@ body{
 .first-part{
 
     font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-left: 5px solid;
     border-radius: 5px;
     border-image: linear-gradient(red,orange);
@@ -43,8 +44,9 @@ body{
 .half-width-top-image{
 
     position: absolute;
-    left: 807px;
-    top: -80px;
+
+    left: 900px;
+    top: 20px;
     width: 426px;
     height: 623px;
      width: 50%;
@@ -69,9 +71,7 @@ body{
     
 
 
-       .mission-area{
-
-       }
+    
 
        #mission-id{
         text-align: center;
@@ -101,8 +101,21 @@ background-color: #cbcbcf;
 }
 
 #box-color3{
-    background-color: #f5ecec;
+    background-color: #cebcc5;
     
+}
+
+
+
+.footer-site{
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }
 
 
